@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/santosh/Desktop/all/cdsa/bds/UISA'
+relocations:     []
+...
